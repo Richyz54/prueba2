@@ -1,0 +1,38 @@
+.logo{
+    border-radius: 100%;
+    width: 75px;
+    height: 50px;
+}
+.img{
+    height: 600px;
+    width: 600px;
+}
+.textos{
+    font-family: verdana;
+    font-size: 12;
+    color: aliceblue;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(img/fondo.png);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.fondo{
+    height: 600px
+}
+.mapa{
+    height: 220px;
+    width: 380px;
+    border-radius: 10%;
+}
+.video{
+    height: 220px;
+    width: 380px;
+}
+.textos2 {
+    font-family: verdana;
+    color: rgb(64, 71, 77);
+}
